@@ -2,6 +2,7 @@
 <h3 align="center">CSE Student at VIT Bhopal | Embracing Web Development & Coding Journeys</h3>
 
 - 📫 How to reach me **akankshapandaa0508@gmail.com**
+- My website: https://akankshapanda-portfolio.netlify.app/
 
 - ⚡ Fun fact **I’m a certified chocolate enthusiast who believes in learning, coding, and enjoying life, one line of code at a time! 🍫💻**
 
