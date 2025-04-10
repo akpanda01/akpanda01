@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha Panda</h1>
 <h3 align="center">CSE Student at VIT Bhopal | Embracing Web Development & Coding Journeys</h3>
 
-- 🔭 I’m currently working on **Money Mentor and Swasthify**
+- 🔭 I’m currently working on **Money Mentor**
 
 - 👨‍💻 All of my projects are available at [https://akankshapanda-portfolio.netlify.app/](https://akankshapanda-portfolio.netlify.app/)
 
