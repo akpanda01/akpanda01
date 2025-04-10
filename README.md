@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Money Mentor**
 
-- 👨‍💻 All of my projects are available at [https://akankshapanda-portfolio.netlify.app/](https://akankshapanda-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://akankshapanda-portfolio.netlify.app/)
 
 - 📫 How to reach me **akankshapanda2004@gmail.com**
 
