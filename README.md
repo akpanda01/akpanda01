@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://akankshapanda-portfolio.netlify.app/](https://akankshapanda-portfolio.netlify.app/)
 
-- 📫 How to reach me **akankshapandaa0508@gmail.com**
+- 📫 How to reach me **akankshapanda2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x1fvfeEfp1mNj2mfq9AxeJ-f5Us2Qfa3/view?usp=sharing](https://drive.google.com/file/d/1x1fvfeEfp1mNj2mfq9AxeJ-f5Us2Qfa3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sYi99t-lu_WIt-spDq1Cdf_C05smC3r5/view?usp=sharing)
 
 - ⚡ Fun fact **I’m a certified chocolate enthusiast who believes in learning, coding, and enjoying life, one line of code at a time! 🍫💻**
 
