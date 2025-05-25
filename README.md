@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha Panda</h1>
-<h3 align="center">CSE Student at VIT Bhopal | Embracing Web Development & Coding Journeys</h3>
+<h3 align="center">Computer Science and Engineering Student at VIT Bhopal University| Embracing Web Development & Coding Journeys</h3>
 
 - 🔭 I’m currently working on **Money Mentor**
 
