@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akanksha Panda</h1>
 <h3 align="center">Computer Science and Engineering Student at VIT Bhopal University| Embracing Web Development & Coding Journeys</h3>
 
-- 🔭 I’m currently working on **Money Mentor**
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://akankshapanda-portfolio.netlify.app/)
 
 - 📫 How to reach me **akankshapanda2004@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Nvjongxtmfsi1OpLdmH6d0AsNDypXg9U/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NAezEywaPh0n0_jDkKjr4ypfcmvqOQoS/view?usp=sharing)
 
 - ⚡ Fun fact **I’m a certified chocolate enthusiast who believes in learning, coding, and enjoying life, one line of code at a time! 🍫💻**
 
