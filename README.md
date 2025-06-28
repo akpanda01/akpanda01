@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **akankshapanda2004@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1s_OD2CehlQpOfsSxl_oT_PDiw43VPLD0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jDYjReHAS4ukv7HqvPWGZu1TsO7fMf--/view?usp=sharing)
 
 - ⚡ Fun fact **I’m a certified chocolate enthusiast who believes in learning, coding, and enjoying life, one line of code at a time! 🍫💻**
 
